@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "webcam-capture-0.3.12.jar",
+        "libs/slf4j-api-1.7.2.jar",
+        "libs/bridj-0.7.0.jar"
+    ],
+    "java.project.sourcePaths": [
+        "server_client"
+    ]
+}

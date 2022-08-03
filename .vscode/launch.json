@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LiveFeedServer",
+            "request": "launch",
+            "mainClass": "LiveFeedServer",
+            "projectName": "PA3_3647b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch LiveFeedServer",
+            "request": "launch",
+            "mainClass": "LiveFeedServer",
+            "projectName": "webcam-capture-0.3.12-dist_4aa958a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LiveFeedClient",
+            "request": "launch",
+            "mainClass": "LiveFeedClient",
+            "projectName": "webcam-capture-0.3.12-dist_4aa958a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPclient",
+            "request": "launch",
+            "mainClass": "TCPclient",
+            "projectName": "webcam-capture-0.3.12-dist_4aa958a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPserver",
+            "request": "launch",
+            "mainClass": "TCPserver",
+            "projectName": "webcam-capture-0.3.12-dist_4aa958a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPclient",
+            "request": "launch",
+            "mainClass": "TCPclient",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCPserver",
+            "request": "launch",
+            "mainClass": "TCPserver",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayImage",
+            "request": "launch",
+            "mainClass": "DisplayImage",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdaptiveSizeWriterExample",
+            "request": "launch",
+            "mainClass": "AdaptiveSizeWriterExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculateFPSExample",
+            "request": "launch",
+            "mainClass": "CalculateFPSExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcurrentThreadsExample",
+            "request": "launch",
+            "mainClass": "ConcurrentThreadsExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomResolutionExample",
+            "request": "launch",
+            "mainClass": "CustomResolutionExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectMotionDoNotEngageZoneExample",
+            "request": "launch",
+            "mainClass": "DetectMotionDoNotEngageZoneExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectMotionEventsExample",
+            "request": "launch",
+            "mainClass": "DetectMotionEventsExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectMotionExample",
+            "request": "launch",
+            "mainClass": "DetectMotionExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectMotionExample2",
+            "request": "launch",
+            "mainClass": "DetectMotionExample2",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectMotionExample3",
+            "request": "launch",
+            "mainClass": "DetectMotionExample3",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DetectWebcamExample",
+            "request": "launch",
+            "mainClass": "DetectWebcamExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DifferentFileFormatsExample",
+            "request": "launch",
+            "mainClass": "DifferentFileFormatsExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DummyDeviceExample",
+            "request": "launch",
+            "mainClass": "DummyDeviceExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageTransformerExample",
+            "request": "launch",
+            "mainClass": "ImageTransformerExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImageTransformerRotationExample",
+            "request": "launch",
+            "mainClass": "ImageTransformerRotationExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MjpegStreamingExample",
+            "request": "launch",
+            "mainClass": "MjpegStreamingExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipointMotionDetectionExample",
+            "request": "launch",
+            "mainClass": "MultipointMotionDetectionExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch NonBlockingModeExample",
+            "request": "launch",
+            "mainClass": "NonBlockingModeExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParallelGetImageBytesExample",
+            "request": "launch",
+            "mainClass": "ParallelGetImageBytesExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PureDefaultDeviceExample",
+            "request": "launch",
+            "mainClass": "PureDefaultDeviceExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PureDeviceTest",
+            "request": "launch",
+            "mainClass": "PureDeviceTest",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakePictureDifferentSizeExample",
+            "request": "launch",
+            "mainClass": "TakePictureDifferentSizeExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakePictureExample",
+            "request": "launch",
+            "mainClass": "TakePictureExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakePictureExample2",
+            "request": "launch",
+            "mainClass": "TakePictureExample2",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakePicturesAndPlayExample",
+            "request": "launch",
+            "mainClass": "TakePicturesAndPlayExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeSnapshotFromAllWebcamsExample",
+            "request": "launch",
+            "mainClass": "TakeSnapshotFromAllWebcamsExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeSnapshotFromVideoExample",
+            "request": "launch",
+            "mainClass": "TakeSnapshotFromVideoExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamDiscoveryListenerExample",
+            "request": "launch",
+            "mainClass": "WebcamDiscoveryListenerExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelFillAreaExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelFillAreaExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelFlippingExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelFlippingExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelRotationExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelRotationExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelWithImageSupllierExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelWithImageSupllierExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamPanelWithSubcomponentsExample",
+            "request": "launch",
+            "mainClass": "WebcamPanelWithSubcomponentsExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebcamViewerExample",
+            "request": "launch",
+            "mainClass": "WebcamViewerExample",
+            "projectName": "webcam-capture-0.3.12-dist_2979f52a"
+        }
+    ]
+}
